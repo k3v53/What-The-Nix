@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/Printing on NixOS.md",
+                "file": "Investigations/Investigations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Printing on NixOS.md",
+                "file": "Investigations/Investigations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Printing on NixOS.md",
+                "file": "Investigations/Investigations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Printing on NixOS.md"
+                "file": "Investigations/Investigations.md"
               }
             }
           }
@@ -145,28 +145,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1be889b8047adbeb",
+  "active": "d357e39c04ad3f53",
   "lastOpenFiles": [
-    "Getting Started/Setting up My First Config File.md",
-    "Getting Started/Getting Started With NixOS.md",
-    "Getting Started/Printing on NixOS.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Investigations/Investigations.md",
+    "Investigations",
     "Questions/FAQ and Solutions.md",
+    "Getting Started/Getting Started With NixOS.md",
+    "Concepts/Advanced/Secrets/Secrets Management.md",
+    "Concepts/Other Sources.md",
+    "Concepts/Advanced/Nix Advanced Concepts.md",
+    "README.md",
+    "Questions/NixOS Ping System Error.md",
+    "Getting Started/Printing on NixOS.md",
+    "Assets/Misc/Nix Iceberg.png",
+    "Assets/Misc/NixOS Manual App Launcher IMG.png",
+    "Getting Started/Setting up My First Config File.md",
+    "Getting Started/Nvidia Drivers on NixOS.md",
     "NixOS Printer Drivers.md",
     "Lets Modularize Our Configurations (Optional).md",
     "Getting Started/Lets Modularize Our Configurations (Optional).md",
     "Assets/Misc",
     "Concepts/Basics/configuration.nix.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
-    "README.md",
-    "Questions/NixOS Ping System Error.md",
-    "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "Concepts/Advanced/Nix Advanced Concepts.md",
-    "Assets/Misc/Nix Iceberg.png",
-    "Questions/Other Sources.md",
     "Concepts",
     "Assets",
     "Basics/So the difference between nixos and nix is.md",
-    "Getting Started/Nvidia Drivers on NixOS.md",
     "Concepts/Basics/NixOS.md",
     "Concepts/Basics/Nix.md",
     "etc/nixos.md",
@@ -179,12 +182,9 @@
     "Untitled.canvas",
     "Testing git plugin.md",
     "Questions",
-    "Concepts/Secrets/Secrets Management.md",
     "fixes.md",
-    "2024-08-27.md",
-    "Concepts/Secrets",
+    "Concepts/Advanced/Secrets",
     "Concepts/Advanced",
-    "Concepts/Basics",
-    "FAQ"
+    "Concepts/Basics"
   ]
 }

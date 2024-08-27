@@ -21,5 +21,6 @@ Printing in nix is easy, to be honest it felt easier than other distros, you hav
 
 ```
 I recommend to create a [[Lets Modularize Our Configurations (Optional)|module]].
+You can customize it even more, read about the other [[attrs]] here: https://search.nixos.org/options?sort=relevance&query=services.printing
 # Sources
 - I'm not gonna lie, I've read some forums but don't remember the links
