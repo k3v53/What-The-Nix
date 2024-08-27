@@ -8,4 +8,5 @@ So after that intro, let's get started.
 5. [[How to Use Services on NixOS]]
 6. [[Lets Modularize Our Configurations (Optional)]]
 7. [[Nvidia Drivers on NixOS]]
-8. [[Welcome to the NixOS Rabbit Hole]]
+8. [[Printing on NixOS]]
+9. [[Welcome to the NixOS Rabbit Hole]]
