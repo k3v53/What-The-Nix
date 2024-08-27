@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Concepts/Advanced/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Concepts/Advanced/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Concepts/Advanced/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md"
+                "file": "Concepts/Advanced/Untitled.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "d357e39c04ad3f53",
   "lastOpenFiles": [
-    "Questions/FAQ and Solutions.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Concepts/Basics/configuration.nix.md",
+    "Concepts/Advanced/Untitled.md",
     "README.md",
+    "Concepts",
+    "Fixes/Fixing NixOS Hostname Issue.md",
     "Questions/NixOS Ping System Error.md",
+    "Questions/FAQ and Solutions.md",
     "Assets/NixOS Manual App Launcher IMG.png",
-    "Basics/Other Sources.md",
+    "Questions/Other Sources.md",
     "Assets",
     "Getting Started/Getting Started With NixOS.md",
-    "Basics/configuration.nix.md",
     "Basics/So the difference between nixos and nix is.md",
     "Getting Started/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting up My First Config File.md",
-    "Basics/NixOS.md",
-    "Basics/Nix.md",
+    "Concepts/Basics/NixOS.md",
+    "Concepts/Basics/Nix.md",
     "etc/nixos.md",
     "etc",
     "Getting Started",
@@ -172,12 +174,12 @@
     "Untitled.canvas",
     "Testing git plugin.md",
     "Questions",
-    "Advanced/Secrets/Secrets Management.md",
+    "Concepts/Advanced/Secrets/Secrets Management.md",
     "fixes.md",
     "2024-08-27.md",
-    "Advanced/Secrets",
-    "Advanced",
-    "Basics",
+    "Concepts/Advanced/Secrets",
+    "Concepts/Advanced",
+    "Concepts/Basics",
     "FAQ"
   ]
 }
