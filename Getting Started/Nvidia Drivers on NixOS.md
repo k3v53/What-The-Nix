@@ -1,3 +1,9 @@
+---
+aliases:
+  - Nvidia Drivers
+difficulty: "1"
+---
+
 NixOS has one of the most straightforward ways of installing these drivers, you have to include this in your [[configuration.nix]] or create a new module
 ```nix
   # Allow unfree packages
@@ -43,7 +49,7 @@ This snippet has the stable nvidia drivers package and the recommended settings 
 ## What does allowUnfree means?
 `nixpkgs.config.allowUnfree = true;`: Enables support for non-free software, it is necessary here because we are looking for the official proprietary drivers.
 ## Laptops
-I don't have a laptop so I can't continue writing about them but feel free to read about them from the official wiki: https://nixos.wiki/wiki/Nvidia#Laptop_Configuration:_Hybrid_Graphics_.28Nvidia_Optimus_PRIME.29.
+I don't have a laptop so I can't continue writing about them but feel free to read the official wiki: https://nixos.wiki/wiki/Nvidia#Laptop_Configuration:_Hybrid_Graphics_.28Nvidia_Optimus_PRIME.29.
 If you have one and want to make a contribution to this entry feel free to do it!
 # Source
 - Forums that i don't remember the link

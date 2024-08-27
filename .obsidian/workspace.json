@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb518675ec67567c",
+        "id": "6d9e94015cfdbdc5",
         "type": "tabs",
         "children": [
           {
-            "id": "d357e39c04ad3f53",
+            "id": "bbd2560602163035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/Investigations.md",
+                "file": "Getting Started/Nvidia Drivers on NixOS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigations/Investigations.md",
+                "file": "Getting Started/Nvidia Drivers on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigations/Investigations.md",
+                "file": "Getting Started/Nvidia Drivers on NixOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigations/Investigations.md"
+                "file": "Getting Started/Nvidia Drivers on NixOS.md"
               }
             }
           }
@@ -145,28 +145,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d357e39c04ad3f53",
+  "active": "bbd2560602163035",
   "lastOpenFiles": [
-    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Getting Started/Getting Started With NixOS.md",
+    "Getting Started/Gamepads on NixOS.md",
+    "Getting Started/Nvidia Drivers on NixOS.md",
+    "Getting Started/Printing on NixOS.md",
+    "Concepts/Basics/configuration.nix.md",
     "Investigations/Investigations.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
     "Investigations",
     "Questions/FAQ and Solutions.md",
-    "Getting Started/Getting Started With NixOS.md",
     "Concepts/Advanced/Secrets/Secrets Management.md",
     "Concepts/Other Sources.md",
     "Concepts/Advanced/Nix Advanced Concepts.md",
     "README.md",
     "Questions/NixOS Ping System Error.md",
-    "Getting Started/Printing on NixOS.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
     "Getting Started/Setting up My First Config File.md",
-    "Getting Started/Nvidia Drivers on NixOS.md",
     "NixOS Printer Drivers.md",
     "Lets Modularize Our Configurations (Optional).md",
     "Getting Started/Lets Modularize Our Configurations (Optional).md",
     "Assets/Misc",
-    "Concepts/Basics/configuration.nix.md",
     "Concepts",
     "Assets",
     "Basics/So the difference between nixos and nix is.md",
@@ -182,7 +183,6 @@
     "Untitled.canvas",
     "Testing git plugin.md",
     "Questions",
-    "fixes.md",
     "Concepts/Advanced/Secrets",
     "Concepts/Advanced",
     "Concepts/Basics"
