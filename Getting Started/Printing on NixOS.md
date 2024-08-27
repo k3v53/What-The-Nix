@@ -1,7 +1,7 @@
 Printing in nix is easy, to be honest it felt easier than other distros, you have to enable printing with `services.printing.enable = true;` and with that you have CUPS enabled. You can enable extra functionality described below.
 - `services.printing.startWhenNeeded = true;`: This enables the service only when you need to use a printer.
 - `programs.system-config-printer.enable = true;` and `services.system-config-printer.enable`: Enables an app that is widely known and used for easy setup of printers in linux desktop.
-- `services.avahi`
+- [[Avahi]]: `services.avahi`
 	- `enable`: Enables discovery of LAN devices (and printers)
 	- `nssmdns4`: Enables IPv4 discovery 
 	- `openFirewall`: Opens the necessary ports for the protocol to actually work

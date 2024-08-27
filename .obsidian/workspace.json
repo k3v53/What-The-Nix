@@ -145,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d357e39c04ad3f53",
+  "active": "1be889b8047adbeb",
   "lastOpenFiles": [
     "Getting Started/Setting up My First Config File.md",
     "Getting Started/Getting Started With NixOS.md",
@@ -179,10 +179,10 @@
     "Untitled.canvas",
     "Testing git plugin.md",
     "Questions",
-    "Concepts/Advanced/Secrets/Secrets Management.md",
+    "Concepts/Secrets/Secrets Management.md",
     "fixes.md",
     "2024-08-27.md",
-    "Concepts/Advanced/Secrets",
+    "Concepts/Secrets",
     "Concepts/Advanced",
     "Concepts/Basics",
     "FAQ"
