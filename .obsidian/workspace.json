@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d18f7d312ba06955",
+        "id": "2df467dd92d4de19",
         "type": "tabs",
         "children": [
           {
-            "id": "8005f966c7c680b5",
+            "id": "d4618134fb3e314f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing git plugin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f51dc1fa33261842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Nvidia Drivers on NixOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Nvidia Drivers on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md",
+                "file": "Nvidia Drivers on NixOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/NixOS Ping System Error.md"
+                "file": "Nvidia Drivers on NixOS.md"
               }
             }
           }
@@ -159,22 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f51dc1fa33261842",
+  "active": "d4618134fb3e314f",
   "lastOpenFiles": [
+    "Getting Started/Getting Started With NixOS.md",
+    "Nvidia Drivers on NixOS.md",
+    "Getting Started/Setting up My First Config File.md",
+    "README.md",
+    "Basics/NixOS.md",
+    "Basics/configuration.nix.md",
+    "Basics/Nix.md",
+    "etc/nixos.md",
+    "etc",
     "Fixes/Fixing NixOS Hostname Issue.md",
+    "Basics/So the difference between nixos and nix is.md",
+    "Getting Started",
+    "Basics/NixPkgs.md",
+    "What.md",
+    "[.md",
+    "NixOS.md",
+    "Untitled.canvas",
+    "Testing git plugin.md",
     "Questions/NixOS Ping System Error.md",
     "Questions",
-    "Basics/So the difference between nixos and nix is.md",
     "Advanced/Secrets/Secrets Management.md",
-    "Testing git plugin.md",
     "fixes.md",
-    "README.md",
     "2024-08-27.md",
-    "Untitled.canvas",
     "Advanced/Secrets",
     "Advanced",
-    "Basics/What is Nix.md",
-    "Basics/What is Nix OS.md",
     "Basics",
     "FAQ"
   ]

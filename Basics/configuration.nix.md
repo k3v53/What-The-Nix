@@ -1,0 +1,2 @@
+`configuration.nix` almost always refers to the main [[NixOS]] config file located in `/etc/nixos`.
+From here you can change every thing related to your OS, including kernel params, boot (yes [[Grub]] included), [[Programs]], [[Packages]], [[Services]] and more!
