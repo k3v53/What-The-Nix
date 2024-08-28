@@ -8,5 +8,10 @@ You can get straight into the read from here: [[Getting Started/index]]
 
 Because of the nature of nixos, I will try to add all of the sources from where I got the data for the specific topic at the end.
 
-
 Feel free to explore and contribute!
+## How can I Contribute?
+Fork this repo, write some content and make a pull request.
+## How do I edit the contents?
+Open the repo as an obsidian vault.
+## Why do you have an absurd amount of commits?
+I use obsidian with the git plugin, so I can still write even if I'm not on my main computer and avoid losing data in the process.

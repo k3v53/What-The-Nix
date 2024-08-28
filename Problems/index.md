@@ -1,0 +1,2 @@
+Collection of errors, problems and misconceptions that sometimes presents when you try to do something, inside of them there are listed solutions to those problems.
+If you don't find what you need try with [[Other Sources]].

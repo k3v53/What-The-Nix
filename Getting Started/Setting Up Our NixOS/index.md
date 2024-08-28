@@ -1,5 +1,7 @@
 ---
 title: Setting Up Our NixOS
+aliases:
+  - Setting Up Our NixOS
 ---
 
 - [[Gamepads on NixOS]]

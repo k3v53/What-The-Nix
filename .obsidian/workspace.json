@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Concepts/Other Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Concepts/Other Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Concepts/Other Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Concepts/Other Sources.md"
               }
             }
           },
@@ -156,33 +156,34 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
-    "Getting Started/index.md",
-    "Getting Started/Setting Up Our NixOS/index.md",
-    "quartz/quartz.layout.ts",
-    "Getting Started/Setting up My First Config File.md",
+    "README.md",
     "index.md",
+    "Problems/index.md",
+    "Getting Started/Setting up My First Config File.md",
+    "Fixes/Fix Nix Store Corruption.md",
+    "Problems/NixOS Ping System Error.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Getting Started/Setting Up Our NixOS/index.md",
+    "Fixes/index.md",
+    "Investigations/Investigations.md",
+    "Getting Started/index.md",
+    "quartz/quartz.layout.ts",
     "Getting Started.md",
     "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
-    "README.md",
     "Getting Started/Setting Up Our NixOS",
-    "Fixes/Fix Nix Store Corruption.md",
     "Concepts/Other Sources.md",
     "quartz/quartz.config.ts",
     "quartz/config",
     "quartz",
     "conflict-files-obsidian-git.md",
     "Concepts/Basics/Nix Store.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
     "Investigations/Repos With Config Files.md",
-    "Investigations/Investigations.md",
     "Getting Started/Gamepads on NixOS.md",
     "Concepts/Basics/configuration.nix.md",
     "Investigations",
-    "Questions/FAQ and Solutions.md",
     "Concepts/Advanced/Secrets/Secrets Management.md",
     "Concepts/Advanced/Nix Advanced Concepts.md",
-    "Questions/NixOS Ping System Error.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
     "NixOS Printer Drivers.md",
