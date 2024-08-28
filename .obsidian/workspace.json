@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/Setting Up Our NixOS/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "configuration.nix",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Setting Up Our NixOS/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Setting Up Our NixOS/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Setting Up Our NixOS/index.md"
+                "file": "index.md"
               }
             }
           },
@@ -156,12 +156,12 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
-    "quartz/quartz.layout.ts",
     "Getting Started/index.md",
+    "Getting Started/Setting Up Our NixOS/index.md",
+    "quartz/quartz.layout.ts",
     "Getting Started/Setting up My First Config File.md",
     "index.md",
     "Getting Started.md",
-    "Getting Started/Setting Up Our NixOS/index.md",
     "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "README.md",
@@ -193,7 +193,6 @@
     "Assets",
     "Basics/So the difference between nixos and nix is.md",
     "etc",
-    "Getting Started",
     "Untitled.canvas"
   ]
 }
