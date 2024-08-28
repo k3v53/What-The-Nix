@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Other Sources.md"
+                "file": "index.md"
               }
             }
           },
@@ -156,6 +156,10 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
+    "Concepts/Advanced/Nix Experimental Features.md",
+    "Concepts/Advanced/Flakes.md",
+    "Concepts/index.md",
+    "Concepts/Other Sources.md",
     "README.md",
     "index.md",
     "Problems/index.md",
@@ -172,7 +176,6 @@
     "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Getting Started/Setting Up Our NixOS",
-    "Concepts/Other Sources.md",
     "quartz/quartz.config.ts",
     "quartz/config",
     "quartz",
@@ -187,12 +190,9 @@
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
     "NixOS Printer Drivers.md",
-    "Lets Modularize Our Configurations (Optional).md",
-    "Getting Started/Lets Modularize Our Configurations (Optional).md",
     "Assets/Misc",
     "Concepts",
     "Assets",
-    "Basics/So the difference between nixos and nix is.md",
     "etc",
     "Untitled.canvas"
   ]
