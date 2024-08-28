@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Getting Started/Setting Up Our NixOS/index.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
     "Getting Started/index.md",
+    "Getting Started/Setting up My First Config File.md",
+    "index.md",
     "Getting Started.md",
     "Getting Started/Setting Up Our NixOS/index.md",
-    "index.md",
     "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
-    "Getting Started/Setting up My First Config File.md",
     "README.md",
     "Getting Started/Setting Up Our NixOS",
     "Fixes/Fix Nix Store Corruption.md",

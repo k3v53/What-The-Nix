@@ -1,7 +1,6 @@
 ---
 title: Setting Up Our NixOS
 ---
-
 1. [[Gamepads on NixOS]]
 2. [[Nvidia Drivers on NixOS]]
 3. [[Printing on NixOS]]
