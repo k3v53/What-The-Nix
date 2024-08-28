@@ -4,6 +4,7 @@ A big part of the information of this wiki comes from these sites so give them l
 - [Nix Official Wiki](https://nix.dev/)
 - [NixOS Manual](https://nixos.org/manual/nixos/stable/) (If you have NixOS installed you can use it from the applications menu ![[NixOS Manual App Launcher IMG.png]])
 - [Search NixOS](https://search.nixos.org): Search trough official packages and NixOS options.
+- [NixOS Discourse](https://discourse.nixos.org/): Official NixOS 
 # Nix Users Websites
 - [NixOS Unofficial Wiki](https://nixos.wiki/wiki/Main_Page)
 - 
