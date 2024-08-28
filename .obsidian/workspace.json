@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f34896af4ca07ada",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fixes/Fix Nix Store Corruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fixes/Fix Nix Store Corruption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +146,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fixes/Fix Nix Store Corruption.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "23c2858aad0cb02f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,10 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fce9feaef10d959",
+  "active": "f34896af4ca07ada",
   "lastOpenFiles": [
-    "Concepts/Basics/Nix Store.md",
+    "conflict-files-obsidian-git.md",
     "Fixes/Fix Nix Store Corruption.md",
+    "Concepts/Basics/Nix Store.md",
     "Fixes/Fixing NixOS Hostname Issue.md",
     "Index.md",
     "README.md",
@@ -193,7 +210,6 @@
     "etc/nixos.md",
     "etc",
     "Getting Started",
-    "Basics/NixPkgs.md",
     "Untitled.canvas",
     "Questions",
     "Concepts/Advanced/Secrets",
