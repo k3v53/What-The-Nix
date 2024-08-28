@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting Started/Getting Started With NixOS.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Getting Started With NixOS.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Getting Started With NixOS.md",
+                "file": "Getting Started/Setting Up Our NixOS/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Getting Started With NixOS.md"
+                "file": "Getting Started/Setting Up Our NixOS/index.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "bbd2560602163035",
   "lastOpenFiles": [
-    "Getting Started/Setting Up Our NixOS/Setting Up Our on NixOS.md",
     "Getting Started/Getting Started With NixOS.md",
+    "Getting Started/Setting Up Our NixOS/index.md",
+    "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
+    "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Getting Started/Setting up My First Config File.md",
     "README.md",
     "Getting Started/Setting Up Our NixOS",
@@ -172,9 +174,7 @@
     "Fixes/Fixing NixOS Hostname Issue.md",
     "Investigations/Repos With Config Files.md",
     "Investigations/Investigations.md",
-    "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Gamepads on NixOS.md",
-    "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Concepts/Basics/configuration.nix.md",
     "Investigations",
     "Questions/FAQ and Solutions.md",
