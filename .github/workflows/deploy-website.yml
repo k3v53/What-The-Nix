@@ -36,7 +36,7 @@ jobs:
         with:
           node-version: 22
       - name: Copy quartz config
-        uses:
+        run: mv --force ./content/quartz/* ./
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Install Dependencies
