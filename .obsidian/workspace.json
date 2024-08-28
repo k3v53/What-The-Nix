@@ -169,6 +169,9 @@
   },
   "active": "f34896af4ca07ada",
   "lastOpenFiles": [
+    "quartz/quartz.config.ts",
+    "quartz/config",
+    "quartz",
     "index.md",
     "README.md",
     "Fixes/Fix Nix Store Corruption.md",
@@ -200,13 +203,10 @@
     "Basics/So the difference between nixos and nix is.md",
     "Concepts/Basics/NixOS.md",
     "Concepts/Basics/Nix.md",
-    "etc/nixos.md",
     "etc",
     "Getting Started",
     "Untitled.canvas",
     "Questions",
-    "Concepts/Advanced/Secrets",
-    "Concepts/Advanced",
-    "Concepts/Basics"
+    "Concepts/Advanced/Secrets"
   ]
 }
