@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "0fce9feaef10d959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fixes/Fix Nix Store Corruption.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f34896af4ca07ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               }
             }
           },
@@ -181,12 +169,12 @@
   },
   "active": "f34896af4ca07ada",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "README.md",
     "Fixes/Fix Nix Store Corruption.md",
+    "index.md",
+    "conflict-files-obsidian-git.md",
     "Concepts/Basics/Nix Store.md",
     "Fixes/Fixing NixOS Hostname Issue.md",
-    "Index.md",
-    "README.md",
     "Investigations/Repos With Config Files.md",
     "Investigations/Investigations.md",
     "Concepts/Other Sources.md",
