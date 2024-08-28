@@ -26,7 +26,11 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
+        repository: "https://github.com/jackyzha0/quartz.git"
+    - uses: actions/checkout@v4
+      with:
         fetch-depth: 0 # Fetch all history for git info
+        path: "./content"
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
