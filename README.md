@@ -10,5 +10,3 @@ Because of the nature of nixos, I will try to add all of the sources from where 
 
 
 Feel free to explore and contribute!
-
-I'm planning to use [quartz](https://quartz.jzhao.xyz/) to show this data to the world, but first I have to finish writting at least the basics.
