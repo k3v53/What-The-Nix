@@ -11,11 +11,8 @@
             "id": "22c220c747c868dd",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace-mobile.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
