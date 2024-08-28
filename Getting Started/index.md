@@ -1,3 +1,7 @@
+---
+title: Getting Started With NixOS
+---
+
 Hi from another noob nixOS user! I'm writing this because I'm tired of the amount of randomness that is available on the internet about nix and nixos, so I wanted to create a simple wiki for me, my girlfriend and my friends to read and understand the weirdness of this distro, stay with me to learn togheter!!
 
 So after that intro, let's get started.

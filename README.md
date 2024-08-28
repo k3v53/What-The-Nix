@@ -4,7 +4,7 @@ The objective of this guide is to try to grasp all of the most important concept
 
 This guide is oriented to someone who has prior at least basic experience in programming and linux, I will only cover the minimum necessary for the nixos concept to work.
 
-You can get straight into the read from here: [[Getting Started With NixOS]]
+You can get straight into the read from here: [[Getting Started/index]]
 
 Because of the nature of nixos, I will try to add all of the sources from where I got the data for the specific topic at the end.
 
