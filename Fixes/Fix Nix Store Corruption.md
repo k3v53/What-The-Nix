@@ -1,4 +1,4 @@
-A simple oneliner to repair it
+A simple oneliner to repair the [[Nix Store]]
 ```bash
 nix-store --repair --verify --check-contents
 ```

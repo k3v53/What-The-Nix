@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigations/Repos With Config Files.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fce9feaef10d959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fixes/Fix Nix Store Corruption.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Investigations/Repos With Config Files.md",
+                "file": "Fixes/Fix Nix Store Corruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Investigations/Repos With Config Files.md",
+                "file": "Fixes/Fix Nix Store Corruption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Investigations/Repos With Config Files.md"
+                "file": "Fixes/Fix Nix Store Corruption.md"
               }
             }
           }
@@ -145,23 +158,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbd2560602163035",
+  "active": "0fce9feaef10d959",
   "lastOpenFiles": [
-    "Investigations/Investigations.md",
-    "Investigations/Repos With Config Files.md",
-    "Concepts/Other Sources.md",
+    "Concepts/Basics/Nix Store.md",
     "Fixes/Fix Nix Store Corruption.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Index.md",
+    "README.md",
+    "Investigations/Repos With Config Files.md",
+    "Investigations/Investigations.md",
+    "Concepts/Other Sources.md",
     "Getting Started/Nvidia Drivers on NixOS.md",
     "Getting Started/Getting Started With NixOS.md",
     "Getting Started/Gamepads on NixOS.md",
     "Getting Started/Printing on NixOS.md",
     "Concepts/Basics/configuration.nix.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
     "Investigations",
     "Questions/FAQ and Solutions.md",
     "Concepts/Advanced/Secrets/Secrets Management.md",
     "Concepts/Advanced/Nix Advanced Concepts.md",
-    "README.md",
     "Questions/NixOS Ping System Error.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
@@ -179,8 +194,6 @@
     "etc",
     "Getting Started",
     "Basics/NixPkgs.md",
-    "What.md",
-    "[.md",
     "Untitled.canvas",
     "Questions",
     "Concepts/Advanced/Secrets",
