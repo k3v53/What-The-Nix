@@ -11,7 +11,7 @@
             "id": "22c220c747c868dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -109,9 +109,17 @@
           "type": "outline",
           "state": {}
         }
+      },
+      {
+        "id": "77f0437249fb75af",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,14 +133,44 @@
   },
   "active": "22c220c747c868dd",
   "lastOpenFiles": [
-    "Testing git plugin.md",
-    "Fixing NixOS.md",
-    "Fixes/Text File.md",
-    "Untitled",
-    "Untitled.md",
-    "Untitled.canvas",
-    "2024-08-27.md",
-    "Fixes",
-    "WHAT THE NIX.md"
+    "Questions/NixOS Ping System Error.md",
+    "Questions/FAQ and Solutions.md",
+    "Investigations/Investigations.md",
+    "Getting Started/Setting up My First Config File.md",
+    "Getting Started/Printing on NixOS.md",
+    "Getting Started/Nvidia Drivers on NixOS.md",
+    "Getting Started/Getting Started With NixOS.md",
+    "Concepts/Basics/Nix.md",
+    "/Questions/NixOS Ping System Error.md",
+    "/Questions/FAQ and Solutions.md",
+    "Questions",
+    "/Investigations/Investigations.md",
+    "Investigations",
+    "/Getting Started/Setting up My First Config File.md",
+    "/Getting Started/Printing on NixOS.md",
+    "/Getting Started/Nvidia Drivers on NixOS.md",
+    "/Getting Started/Getting Started With NixOS.md",
+    "Getting Started",
+    "Concepts/Basics/NixOS.md",
+    "/Concepts/Basics/Nix.md",
+    "/Concepts/Advanced/Nix Advanced Concepts.md",
+    "/Assets/Misc/NixOS Manual App Launcher IMG.png",
+    "/Assets/Misc/Nix Iceberg.png",
+    "Assets/Misc",
+    "Assets",
+    "/Questions",
+    "/Investigations",
+    "/Getting Started",
+    "Fixes/Fixing NixOS Hostname Issue.md",
+    "/Concepts/Basics/NixOS.md",
+    "/Concepts/Advanced/Secrets/Secrets Management.md",
+    "Concepts/Basics/configuration.nix.md",
+    "Concepts/Other Sources.md",
+    "Concepts/Basics",
+    "Concepts/Advanced",
+    "/README.md",
+    "/Fixes/Fixing NixOS Hostname Issue.md",
+    "/Concepts/Other Sources.md",
+    "Untitled.canvas"
   ]
 }
