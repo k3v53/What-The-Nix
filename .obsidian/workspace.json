@@ -156,10 +156,10 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
-    "Getting Started.md",
-    "index.md",
     "Getting Started/index.md",
+    "Getting Started.md",
     "Getting Started/Setting Up Our NixOS/index.md",
+    "index.md",
     "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Getting Started/Setting up My First Config File.md",
