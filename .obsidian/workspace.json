@@ -156,6 +156,7 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
+    "quartz/quartz.layout.ts",
     "Getting Started/index.md",
     "Getting Started/Setting up My First Config File.md",
     "index.md",
@@ -191,7 +192,6 @@
     "Concepts",
     "Assets",
     "Basics/So the difference between nixos and nix is.md",
-    "Concepts/Basics/NixOS.md",
     "etc",
     "Getting Started",
     "Untitled.canvas"
