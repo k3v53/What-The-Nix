@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f34896af4ca07ada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "Getting Started/Getting Started With NixOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Getting Started/Getting Started With NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Getting Started/Getting Started With NixOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Getting Started/Getting Started With NixOS.md"
               }
             }
           },
@@ -167,12 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f34896af4ca07ada",
+  "active": "bbd2560602163035",
   "lastOpenFiles": [
-    "Fixes/Fix Nix Store Corruption.md",
-    "index.md",
-    "Concepts/Other Sources.md",
+    "Getting Started/Setting Up Our NixOS/Setting Up Our on NixOS.md",
+    "Getting Started/Getting Started With NixOS.md",
+    "Getting Started/Setting up My First Config File.md",
     "README.md",
+    "Getting Started/Setting Up Our NixOS",
+    "index.md",
+    "Fixes/Fix Nix Store Corruption.md",
+    "Concepts/Other Sources.md",
     "quartz/quartz.config.ts",
     "quartz/config",
     "quartz",
@@ -181,10 +172,9 @@
     "Fixes/Fixing NixOS Hostname Issue.md",
     "Investigations/Repos With Config Files.md",
     "Investigations/Investigations.md",
-    "Getting Started/Nvidia Drivers on NixOS.md",
-    "Getting Started/Getting Started With NixOS.md",
+    "Getting Started/Setting Up Our NixOS/Nvidia Drivers on NixOS.md",
     "Getting Started/Gamepads on NixOS.md",
-    "Getting Started/Printing on NixOS.md",
+    "Getting Started/Setting Up Our NixOS/Printing on NixOS.md",
     "Concepts/Basics/configuration.nix.md",
     "Investigations",
     "Questions/FAQ and Solutions.md",
@@ -193,7 +183,6 @@
     "Questions/NixOS Ping System Error.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "Getting Started/Setting up My First Config File.md",
     "NixOS Printer Drivers.md",
     "Lets Modularize Our Configurations (Optional).md",
     "Getting Started/Lets Modularize Our Configurations (Optional).md",
@@ -205,7 +194,6 @@
     "Concepts/Basics/Nix.md",
     "etc",
     "Getting Started",
-    "Untitled.canvas",
-    "Questions"
+    "Untitled.canvas"
   ]
 }
