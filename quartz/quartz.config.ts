@@ -8,7 +8,7 @@ import * as Plugin from './quartz/plugins';
  */
 const config: QuartzConfig = {
 	configuration: {
-		pageTitle: '❄️ What The Nix ❄️',
+		pageTitle: '❄️ What The Nix',
 		enableSPA: false,
 		enablePopovers: true,
 		analytics: {},
