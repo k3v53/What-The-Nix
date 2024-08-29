@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb5978d40d56d21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128dc9b64500c0a1",
+  "active": "cb5978d40d56d21f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Concepts/Basics/configuration.nix.md",
+    "conflict-files-obsidian-git.md",
     "Fixes/Installing Nix Gaming.md",
     "attrs.md",
     "index.md",
