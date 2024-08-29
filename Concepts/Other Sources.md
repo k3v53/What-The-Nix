@@ -8,4 +8,4 @@ A big part of the information of this wiki comes from these sites so give them l
 # Nix Users Websites
 - [NixOS Unofficial Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/)
-	- 
+- 
