@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Other Sources.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Other Sources.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
     "README.md",
-    "conflict-files-obsidian-git.md",
+    "Fixes/Installing Nix Gaming.md",
     "Concepts/Other Sources.md",
+    "conflict-files-obsidian-git.md",
     "index.md",
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
@@ -189,7 +190,6 @@
     "Concepts/Advanced/Nix Advanced Concepts.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "NixOS Printer Drivers.md",
     "Assets/Misc",
     "Concepts",
     "Assets",
