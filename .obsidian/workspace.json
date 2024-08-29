@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "073c3f11a7c07f33",
+        "id": "9d061c10fafe0396",
         "type": "tabs",
         "children": [
           {
-            "id": "128dc9b64500c0a1",
+            "id": "9db69fd36e28ccec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba12d3a9ab574566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:other",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts/Other Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -130,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,20 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128dc9b64500c0a1",
+  "active": "ba12d3a9ab574566",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Concepts/Other Sources.md",
     "index.md",
-    "Untitled.canvas",
-    "Getting Started/Setting up My First Config File.md",
-    "Concepts/Advanced/Flakes.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
     "Concepts/Advanced/Nix Experimental Features.md",
+    "Concepts/Advanced/Flakes.md",
     "Concepts/index.md",
     "Concepts/Other Sources.md",
-    "README.md",
     "Problems/index.md",
+    "Getting Started/Setting up My First Config File.md",
     "Fixes/Fix Nix Store Corruption.md",
     "Problems/NixOS Ping System Error.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
     "Getting Started/Setting Up Our NixOS/index.md",
     "Fixes/index.md",
     "Investigations/Investigations.md",
@@ -174,7 +194,6 @@
     "quartz/quartz.config.ts",
     "quartz/config",
     "quartz",
-    "conflict-files-obsidian-git.md",
     "Concepts/Basics/Nix Store.md",
     "Investigations/Repos With Config Files.md",
     "Getting Started/Gamepads on NixOS.md",
@@ -184,9 +203,11 @@
     "Concepts/Advanced/Nix Advanced Concepts.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
+    "NixOS Printer Drivers.md",
     "Assets/Misc",
     "Concepts",
     "Assets",
-    "etc"
+    "etc",
+    "Untitled.canvas"
   ]
 }
