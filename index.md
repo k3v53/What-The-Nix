@@ -18,3 +18,4 @@ The rest of the structure is (hover for more details):
 - [[Investigations]]: The place where I save random data that I've found scattered all around the web 
 
 Because of the nature of nixos, I will try to add all of the sources from where I got the data for the specific topic at the end.
+I also wanted to clarify that I only have something like 2 weeks with nix? So expect some very noobmaster conclusions on advanced topics but, obviously, I will be happy to receive some contributions and opinions about the wiki!!
