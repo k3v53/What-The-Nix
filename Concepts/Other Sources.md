@@ -7,4 +7,4 @@ A big part of the information of this wiki comes from these sites so give them l
 - [NixOS Discourse](https://discourse.nixos.org/): Official NixOS 
 # Nix Users Websites
 - [NixOS Unofficial Wiki](https://nixos.wiki/wiki/Main_Page)
-- 
+- [# NixOS & Flakes Book]
