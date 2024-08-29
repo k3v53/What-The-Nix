@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Basics/configuration.nix.md"
+                "file": "index.md"
               }
             }
           },
@@ -157,11 +156,12 @@
   },
   "active": "128dc9b64500c0a1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Problems/index.md",
+    "index.md",
     "Concepts/Basics/configuration.nix.md",
+    "conflict-files-obsidian-git.md",
     "Fixes/Installing Nix Gaming.md",
     "attrs.md",
-    "index.md",
     "Untitled.canvas",
     "Getting Started/Setting up My First Config File.md",
     "Concepts/Advanced/Flakes.md",
@@ -170,7 +170,6 @@
     "Concepts/index.md",
     "Concepts/Other Sources.md",
     "README.md",
-    "Problems/index.md",
     "Fixes/Fix Nix Store Corruption.md",
     "Problems/NixOS Ping System Error.md",
     "Getting Started/Setting Up Our NixOS/index.md",
