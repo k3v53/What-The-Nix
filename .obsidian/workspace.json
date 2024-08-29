@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecb6a3cc2566704",
+        "id": "073c3f11a7c07f33",
         "type": "tabs",
         "children": [
           {
-            "id": "289ac13439cb78ab",
+            "id": "128dc9b64500c0a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Advanced/Flakes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Advanced/Flakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Advanced/Flakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts/Advanced/Flakes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,19 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "289ac13439cb78ab",
+  "active": "128dc9b64500c0a1",
   "lastOpenFiles": [
     "index.md",
-    "Concepts/Advanced/Nix Experimental Features.md",
+    "Untitled.canvas",
+    "Getting Started/Setting up My First Config File.md",
     "Concepts/Advanced/Flakes.md",
+    "Fixes/Fixing NixOS Hostname Issue.md",
+    "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/index.md",
     "Concepts/Other Sources.md",
     "README.md",
     "Problems/index.md",
-    "Getting Started/Setting up My First Config File.md",
     "Fixes/Fix Nix Store Corruption.md",
     "Problems/NixOS Ping System Error.md",
-    "Fixes/Fixing NixOS Hostname Issue.md",
     "Getting Started/Setting Up Our NixOS/index.md",
     "Fixes/index.md",
     "Investigations/Investigations.md",
@@ -189,11 +183,9 @@
     "Concepts/Advanced/Nix Advanced Concepts.md",
     "Assets/Misc/Nix Iceberg.png",
     "Assets/Misc/NixOS Manual App Launcher IMG.png",
-    "NixOS Printer Drivers.md",
     "Assets/Misc",
     "Concepts",
     "Assets",
-    "etc",
-    "Untitled.canvas"
+    "etc"
   ]
 }
