@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba12d3a9ab574566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Concepts/Other Sources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Concepts/Other Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Concepts/Other Sources.md"
               }
             }
           },
@@ -167,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba12d3a9ab574566",
+  "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
     "README.md",
     "conflict-files-obsidian-git.md",
@@ -176,7 +163,6 @@
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
     "Concepts/index.md",
-    "Concepts/Other Sources.md",
     "Problems/index.md",
     "Getting Started/Setting up My First Config File.md",
     "Fixes/Fix Nix Store Corruption.md",
