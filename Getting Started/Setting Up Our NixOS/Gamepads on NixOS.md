@@ -27,3 +27,5 @@ This setting works with most generic controllers, PS3, PS4 and Xbox controllers.
 
 > [!warning]
 >If you have been searching on the web and overridden the default bluez package, delete those lines because it is not necessary anymore, only leave the override if you know what are you doing!
+
+If you're lost like I was after writting this page, please read [[Weird Nix Shenanigans Explained]].
