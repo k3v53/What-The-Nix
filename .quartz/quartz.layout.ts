@@ -18,7 +18,7 @@ export const sharedPageComponents: SharedLayout = {
 				category: 'Website Comments',
 				// from data-category-id
 				categoryId: 'DIC_kwDOMpIwCM4CiLMv',
-
+				mapping: 'title',
 				strict: false,
 			}
 		}),
