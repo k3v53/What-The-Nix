@@ -5,9 +5,11 @@ aliases:
 ---
 
 # Wired Gamepads
+
+
 Wired Gamepads should work out of the box, but there are some others that need extra work.
 
-# Wireless Bluetooth Gamepads ^BT-Wireless-Gamepads
+# Wireless Bluetooth Gamepads
 
 First of all, enable Bluetooth on your [[configuration.nix]].
 ```nix
