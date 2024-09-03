@@ -1,11 +1,28 @@
 import { PageLayout, SharedLayout } from './quartz/cfg';
 import * as Component from './quartz/components';
 
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
 	head: Component.Head(),
 	header: [],
-	afterBody: [],
+	afterBody: [
+		Component.Comments({
+			provider: 'giscus',
+			options: {
+				// from data-repo
+				repo: 'k3v53/what-the-nix',
+				// from data-repo-id
+				repoId: 'R_kgDOMpIwCA',
+				// from data-category
+				category: 'Web Comments',
+				// from data-category-id
+				categoryId: 'DIC_kwDOMpIwCM4CiLMv',
+
+				strict: false,
+			}
+		}),
+	],
 	footer: Component.Footer({
 		links: {
 			GitHub: 'https://github.com/k3v53/What-The-Nix',
