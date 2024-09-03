@@ -12,6 +12,6 @@ So after that intro, let's get started.
 4. [[How to Install Software on NixOS]]
 5. [[How to Use Services on NixOS]]
 6. [[Lets Modularize Our Configurations (Optional)]]
-7. [[Getting Started/Setting Up Our NixOS/index| Setting Up Our NixOS]]
+7. [[Getting Started/Setting Up Our NixOS/index|Setting Up Our NixOS]]
 8. [[Customizing My Console on NixOS]]
 9. [[Welcome to the NixOS Rabbit Hole]]
