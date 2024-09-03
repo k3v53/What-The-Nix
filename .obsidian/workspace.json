@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Investigations/Repos With Config Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Investigations/Repos With Config Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Investigations/Repos With Config Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Investigations/Repos With Config Files.md"
               }
             }
           },
@@ -156,11 +156,12 @@
   },
   "active": "9db69fd36e28ccec",
   "lastOpenFiles": [
+    "Investigations/Investigations.md",
+    "Concepts/Other Sources.md",
+    "index.md",
     "README.md",
     "Fixes/Installing Nix Gaming.md",
-    "Concepts/Other Sources.md",
     "conflict-files-obsidian-git.md",
-    "index.md",
     "Concepts/Advanced/Nix Experimental Features.md",
     "Concepts/Advanced/Flakes.md",
     "Concepts/index.md",
@@ -171,7 +172,6 @@
     "Fixes/Fixing NixOS Hostname Issue.md",
     "Getting Started/Setting Up Our NixOS/index.md",
     "Fixes/index.md",
-    "Investigations/Investigations.md",
     "Getting Started/index.md",
     "quartz/quartz.layout.ts",
     "Getting Started.md",
