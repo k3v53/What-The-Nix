@@ -14,7 +14,7 @@ const config: QuartzConfig = {
 		analytics: {},
 		locale: 'en-US',
 		baseUrl: 'what-the-nix.kevin.net.ar',
-		ignorePatterns: ['private', 'templates', '.obsidian'],
+		ignorePatterns: ['private', 'templates', '.obsidian', 'README.md'],
 		defaultDateType: 'created',
 		theme: {
 			fontOrigin: 'googleFonts',
