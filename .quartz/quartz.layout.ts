@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
 				// from data-repo-id
 				repoId: 'R_kgDOMpIwCA',
 				// from data-category
-				category: 'Web Comments',
+				category: 'Website Comments',
 				// from data-category-id
 				categoryId: 'DIC_kwDOMpIwCM4CiLMv',
 
