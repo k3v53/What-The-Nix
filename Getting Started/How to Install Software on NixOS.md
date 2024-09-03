@@ -18,3 +18,6 @@ Nix has a way to distinguish different types of software, those are:
 - [[Packages]]: These are a group of things that contains the necessary libraries for a program to run, they can be programs, services or simple dependencies, and they don't have a standardized way to receive configurations, some of them have configurations with the [[Home Manager]] module, but some others just plain don't have and you have to write them yourself.
 
 The rule of thumb is simply looking your desired software from [[Programs]], if it is not listed there search it on [[Services]], and finally [[Packages]].
+
+Previous Chapter: [[Setting up My First Config File on NixOS]]
+Next Chapter: [[How to Use Services on NixOS]]
