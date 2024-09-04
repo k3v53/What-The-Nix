@@ -2,6 +2,7 @@
 aliases:
   - Nvidia Drivers
   - ../../Getting-Started/Setting-Up-Our-NixOS/Nvidia-Drivers-on-NixOS
+  - /Nvidia-Drivers
 difficulty: "1"
 ---
 
