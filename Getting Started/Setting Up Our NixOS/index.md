@@ -8,7 +8,7 @@ aliases:
 
 - [[Customizing My Console on NixOS]]
 - [[Gamepads on NixOS]]
-- [[Nvidia Drivers on NixOS]]
+- [[Proprietary Nvidia Drivers on NixOS]]
 - [[Printing on NixOS]]
 - [[Wacom Tablets on NixOS]]
 - [[Remote Control on NixOS]]

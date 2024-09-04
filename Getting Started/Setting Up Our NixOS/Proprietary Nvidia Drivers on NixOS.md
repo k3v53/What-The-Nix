@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nvidia Drivers
+  - Nvidia-Drivers-on-NixOS
 difficulty: "1"
 ---
 
